@@ -4,7 +4,7 @@
 Hi, I'm kurupoo. You might recognize me as GitHub's mascot.
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top THINGS-TO-languages</summary>
   
 | Rank | Languages |
 |-----:|-----------|
