@@ -62,14 +62,13 @@
 <div align="center">
 
 <!--
-  github-readme-stats の公開インスタンス (github-readme-stats.vercel.app) は
-  2026-07-21 時点で DEPLOYMENT_PAUSED により 503。復旧するか、自分の Vercel に
-  フォークをデプロイしたら下記2行のコメントを外して有効化する。
-  自前ホストする場合は URL のホスト名を自分のデプロイ先に差し替えること。
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kurupoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=D29922" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurupoo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="langs" />
+  本家 anuraghazra/github-readme-stats は非推奨となり、公開インスタンス
+  (github-readme-stats.vercel.app) は停止した。開発は github-stats-extended
+  (stats-organization/github-stats-extended) に移管され、そちらの公開
+  インスタンスを参照している。パラメータの互換性はそのまま。
 -->
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=kurupoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&icon_color=D29922" alt="stats" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kurupoo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="langs" />
 
 <img height="160" src="https://streak-stats.demolab.com?user=kurupoo&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=D29922&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3FB950&sideLabels=8B949E&dates=6E7681" alt="streak" />
 
