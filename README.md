@@ -41,22 +41,19 @@
 ### `$ cat ~/.stack`
 
 ```console
-> cloud
+> cloud & infra
 ```
 <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Terraform-161B22?style=flat-square&logo=terraform&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Cloudflare-161B22?style=flat-square&logo=cloudflare&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=3FB950" />
 
 ```console
 > lang & tools
 ```
 <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/Ruby-161B22?style=flat-square&logo=ruby&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Neovim-161B22?style=flat-square&logo=neovim&logoColor=3FB950" />
 
 <br />
 
