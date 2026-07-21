@@ -43,17 +43,22 @@
 ```console
 > cloud & infra
 ```
-<img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=3FB950" />
+<!-- 各グループは div で囲む。囲まないと img 1行ごとに段落化されて縦積みになる -->
+<!-- AWS はロゴ指定なし。Simple Icons から Amazon のマークが削除済みで shields.io に存在しない -->
+<div>
+<img src="https://img.shields.io/badge/AWS-161B22?style=flat-square" />
 <img src="https://img.shields.io/badge/Terraform-161B22?style=flat-square&logo=terraform&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=3FB950" />
+</div>
 
 ```console
 > lang & tools
 ```
+<div>
 <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Ruby-161B22?style=flat-square&logo=ruby&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=3FB950" />
+</div>
 
 <br />
 
