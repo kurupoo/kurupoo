@@ -28,8 +28,8 @@
 ```console
 > kurupoo — Software Engineer
 >
-> クラウド基盤と自動化。手作業を消すのが仕事。
-> 二度やることは、スクリプトにする。
+> 消すのが仕事。
+> ？？？？
 >
 > location : Japan
 > site     : https://orkrp.com
